@@ -1,0 +1,34 @@
+Link shortner project.
+
+Objective of the project:
+          The objective of this project is to spit out links that are easier to share.
+          More importantly, the link shortner services let small businesses track marketing
+          campaigns and other incoming traffic.
+
+What is URL shortner?
+--->      A URL shortener is a simple tool that takes a long URL and turns it into whatever
+          URL you would like it to be.
+
+Why URL shortner?
+--->
+          Shortened links display better in emails, print material, and other places.
+          Some URL shortener services turn long links into small ones, and that's it.
+
+When to use a URL Shortener?
+--->       
+          Use a URL shortener when you need to track the efforts of a social post or campaign.
+          This is worthwhile when a link is sending traffic to your site, but especially when 
+          it’s not.
+
+          For example, maybe you send out 100 tweets linking to curated content each month.
+          This is content which points followers to some of your favorite industry resources.
+          Did anyone like that content? You can find out simply by checking the stats in your
+          URL shortener. You’ll be able to easily spot your top performers.
+
+Conclusion:
+           
+         If someone is on the internet at all, they,ve got to be using a URL shortener. Whether it’s
+         for personal use as a productivity hack, or to track and report on results for their business,
+         Use a URL shortener.
+
+Note:    The function of each and every code is displayed in front of the code line as a comment.
